@@ -16,7 +16,8 @@ describe('Fire-up the JSON-Schema-Markdown-a-tron', function () {
       }
 
     )
-    console.log('-------------------------------------------------------------------')
+    console.log('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
     console.log(result.markdown)
+    console.log('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
   })
 })
