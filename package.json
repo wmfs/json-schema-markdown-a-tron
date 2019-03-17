@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "dottie": "2.0.1",
+    "json-schema-deref-sync": "0.10.0",
     "lodash": "4.17.11"
   },
   "devDependencies": {
