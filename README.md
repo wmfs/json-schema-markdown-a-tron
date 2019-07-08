@@ -1,5 +1,5 @@
 # json-schema-markdown-a-tron
-
+[![CircleCI](https://circleci.com/gh/wmfs/json-schema-markdown-a-tron.svg?style=svg)](https://circleci.com/gh/wmfs/json-schema-markdown-a-tron)
 > Turn a JSON-Schema object into markdown string
 
 # Installation
