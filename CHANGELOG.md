@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.1.0...v1.2.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([8634690](https://github.com/wmfs/json-schema-markdown-a-tron/commit/86346905dc17bf1dd042a4f86803deaeccfc3e86))
+
 # [1.1.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.0.0...v1.1.0) (2020-01-06)
 
 
