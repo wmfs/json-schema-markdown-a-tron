@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.2.0...v1.3.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump json-schema-deref-sync from 0.10.0 to 0.13.0 ([6e52958](https://github.com/wmfs/json-schema-markdown-a-tron/commit/6e529583f43f9a484f97f14f929ce363da989aba))
+
 # [1.2.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.1.0...v1.2.0) (2020-01-06)
 
 
