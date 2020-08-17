@@ -1,3 +1,19 @@
+# [1.5.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.4.0...v1.5.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([7004076](https://github.com/wmfs/json-schema-markdown-a-tron/commit/70040763aa51b6ae9820d6896d18e785c5340a81))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([d8c8977](https://github.com/wmfs/json-schema-markdown-a-tron/commit/d8c89774126009081feff763f50a26b5ab525733))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([ee2b971](https://github.com/wmfs/json-schema-markdown-a-tron/commit/ee2b971011cb81f383305b4dfe98a255ddc417f0))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([4708f76](https://github.com/wmfs/json-schema-markdown-a-tron/commit/4708f76859fbcee03b0a0f4cf9844d31dec6a625))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([f8b2b90](https://github.com/wmfs/json-schema-markdown-a-tron/commit/f8b2b90f0774254f6aced52e875afbdfe6320b2c))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([809329b](https://github.com/wmfs/json-schema-markdown-a-tron/commit/809329b1d4315dcb2005816709f4b25ecd09c276))
+
 # [1.4.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.3.0...v1.4.0) (2020-07-13)
 
 
