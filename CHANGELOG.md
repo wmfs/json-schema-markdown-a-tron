@@ -1,3 +1,40 @@
+# [1.6.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.5.0...v1.6.0) (2021-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump json-schema-deref-sync from 0.13.0 to 0.14.0 ([e73cadb](https://github.com/wmfs/json-schema-markdown-a-tron/commit/e73cadbdc6fb6cc9c20c506f7c3960cd6b4f0b8c))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([abcf507](https://github.com/wmfs/json-schema-markdown-a-tron/commit/abcf50773b0b2a2b9372e33321f4a878b0ffd61c))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([c1a1c14](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c1a1c142d4dd3fd9d4fee902ea2341aaeeef8698))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([ba943a5](https://github.com/wmfs/json-schema-markdown-a-tron/commit/ba943a573da5a1f90d990131ab2a70d84f6a00c0))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([2798dfa](https://github.com/wmfs/json-schema-markdown-a-tron/commit/2798dfae5624f94fa4a82b5f37b699855d5c1012))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([8bef597](https://github.com/wmfs/json-schema-markdown-a-tron/commit/8bef597bddb3b7e1bc6c56381795547c44cb554c))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([9db0e60](https://github.com/wmfs/json-schema-markdown-a-tron/commit/9db0e60b8d176335fbaf5dc372bbcfb9f13945d9))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([dfefb4d](https://github.com/wmfs/json-schema-markdown-a-tron/commit/dfefb4d3d73a3460de5ebd6efb153f9b666bff94))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([b35bb50](https://github.com/wmfs/json-schema-markdown-a-tron/commit/b35bb50c0b3db5b9551007cde19c81f0ed681ace))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([299331a](https://github.com/wmfs/json-schema-markdown-a-tron/commit/299331ac4ac94bbc9f26a3502594f551f2ca5463))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([bc354f4](https://github.com/wmfs/json-schema-markdown-a-tron/commit/bc354f445638c0043e6d2be38f1d1e52c2e9ccf2))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([79d4088](https://github.com/wmfs/json-schema-markdown-a-tron/commit/79d4088ff3d2e4dcfa13f9faf7f06804679fb750))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([f2fa15b](https://github.com/wmfs/json-schema-markdown-a-tron/commit/f2fa15b86314fe3f93fc4427ece4f6a81b4611c3))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([d003623](https://github.com/wmfs/json-schema-markdown-a-tron/commit/d003623f59ea1db40b1c4553cb45a565bb54c482))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([b834729](https://github.com/wmfs/json-schema-markdown-a-tron/commit/b834729aa19769acfa894f4806ae127aed6cfff8))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([c893ab8](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c893ab80ed2975d3a135cabf4702b72715bd859a))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([4f2c821](https://github.com/wmfs/json-schema-markdown-a-tron/commit/4f2c821f1c10f696c4a2840a09ce2ef44b5d2d17))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([9076c53](https://github.com/wmfs/json-schema-markdown-a-tron/commit/9076c531fa6c4cc2f6c5ef7035544f81dce91e93))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([c26863e](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c26863e66d4bd0021f8927cb8b926129c9355d9d))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([fdcd8bd](https://github.com/wmfs/json-schema-markdown-a-tron/commit/fdcd8bdacf8776e0f40a4ef983dceef757280fd2))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([6f638f1](https://github.com/wmfs/json-schema-markdown-a-tron/commit/6f638f1765765a532671924583c522f18e6fd24c))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([92666ef](https://github.com/wmfs/json-schema-markdown-a-tron/commit/92666ef4549f3911481b265292989fb256b8d5ab))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([50ea07a](https://github.com/wmfs/json-schema-markdown-a-tron/commit/50ea07a40e3577583262f2a9025d68e693e5a5ac))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([f6809d6](https://github.com/wmfs/json-schema-markdown-a-tron/commit/f6809d646a147f8a1f249fb3930228f90f7bedbe))
+* **circle:** cache dependencies [ch2770] ([9766fc4](https://github.com/wmfs/json-schema-markdown-a-tron/commit/9766fc4ec849053bba3ad1fcca73fa3bcef6e46a))
+* **circle:** separate linting job [ch1009] ([6d518dc](https://github.com/wmfs/json-schema-markdown-a-tron/commit/6d518dc47a0cc5b97af6d1a101fba2c79c9099f0))
+* **circle:** update build environment variable context name [ch2771] ([605d492](https://github.com/wmfs/json-schema-markdown-a-tron/commit/605d4923cb23526d383ed7f2ea47f2b8358bc35d))
+
 # [1.5.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.4.0...v1.5.0) (2020-08-17)
 
 
