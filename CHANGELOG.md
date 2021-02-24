@@ -1,3 +1,20 @@
+# [1.7.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.6.0...v1.7.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([6187737](https://github.com/wmfs/json-schema-markdown-a-tron/commit/618773738e510e124626db14a06ab230344ac0f7))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([ea59e5e](https://github.com/wmfs/json-schema-markdown-a-tron/commit/ea59e5e923fb61b93d07a66af533db6c2387b783))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([23a4c12](https://github.com/wmfs/json-schema-markdown-a-tron/commit/23a4c1265cf7246d9a8f0ee2729224e57c10bfbb))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([a5c4b8d](https://github.com/wmfs/json-schema-markdown-a-tron/commit/a5c4b8d422a1ba5eaffe1e77b3d4e472978d59d6))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([09d2e68](https://github.com/wmfs/json-schema-markdown-a-tron/commit/09d2e6864edcc285e534f64fc016f15bc663576d))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([abac53d](https://github.com/wmfs/json-schema-markdown-a-tron/commit/abac53de46ca86c63b399afa0f49f6e768d7b261))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([5605c3e](https://github.com/wmfs/json-schema-markdown-a-tron/commit/5605c3e4e736f4fc4aca2b94aefc6c5e2e916b45))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([bc1930a](https://github.com/wmfs/json-schema-markdown-a-tron/commit/bc1930aa2bf0daa722d2093c07c8651a2170e39c))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([2825324](https://github.com/wmfs/json-schema-markdown-a-tron/commit/2825324e631fa00f702e6633cae365115f6e018b))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([c1a9107](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c1a91073802c2710f906fd5ec18bc39d0a3abab8))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([04ef209](https://github.com/wmfs/json-schema-markdown-a-tron/commit/04ef2092c76bfd348e9394abe0c5f5c01feeead3))
+
 # [1.6.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.5.0...v1.6.0) (2021-01-06)
 
 
