@@ -1,3 +1,18 @@
+# [1.9.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.8.0...v1.9.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([3e0b84a](https://github.com/wmfs/json-schema-markdown-a-tron/commit/3e0b84a6d308e65cd05c55c08840d7b438fffc62))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([2a91d2d](https://github.com/wmfs/json-schema-markdown-a-tron/commit/2a91d2daef26858268305f06a7313ad7cbe32907))
+* **deps-dev:** update dependency semantic-release to v21 ([c45c31b](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c45c31b28f5abd5323b15c54b73a71310ba84d9b))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([ee225e8](https://github.com/wmfs/json-schema-markdown-a-tron/commit/ee225e88a5d1dbcb881125099506aa2bb5e24dc6))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([247dfed](https://github.com/wmfs/json-schema-markdown-a-tron/commit/247dfede4ca37869d8dbff4ea29354695294de84))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([304f995](https://github.com/wmfs/json-schema-markdown-a-tron/commit/304f9953492ae2b9793a4db1c9822bace4418966))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([da7a1df](https://github.com/wmfs/json-schema-markdown-a-tron/commit/da7a1df2a55c4554584dba136bee93f4a8b38049))
+* **deps-dev:** update dependency standard to v17.1.0 ([c4af586](https://github.com/wmfs/json-schema-markdown-a-tron/commit/c4af58630e8f4d4eea02f7b0e416278213eb2105))
+* **deps:** update dependency dottie to v2.0.4 [security] ([2e49636](https://github.com/wmfs/json-schema-markdown-a-tron/commit/2e49636abec2630ce1e48189e54e818303a6af25))
+
 # [1.8.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.7.0...v1.8.0) (2023-03-13)
 
 
