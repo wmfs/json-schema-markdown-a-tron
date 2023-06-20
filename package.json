@@ -21,7 +21,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "dottie": "2.0.4",
+    "dottie": "2.0.6",
     "json-schema-deref-sync": "0.14.0",
     "lodash": "4.17.21"
   },
