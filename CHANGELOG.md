@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.9.0...v1.10.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([45ed430](https://github.com/wmfs/json-schema-markdown-a-tron/commit/45ed43081e6a16e65b68a081a2403436d53704b0))
+
 # [1.9.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.8.0...v1.9.0) (2023-06-20)
 
 
