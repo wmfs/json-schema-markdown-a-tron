@@ -23,7 +23,7 @@
   "dependencies": {
     "dottie": "2.0.6",
     "json-schema-deref-sync": "0.14.0",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   },
   "devDependencies": {
     "chai": "4.5.0",
