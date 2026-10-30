@@ -1,3 +1,22 @@
+## [1.12.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.11.1...v1.12.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([9fd494d](https://github.com/wmfs/json-schema-markdown-a-tron/commit/9fd494dcee049e71814c66619852ce7f62e1747b))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#266](https://github.com/wmfs/json-schema-markdown-a-tron/issues/266)) ([e54bef5](https://github.com/wmfs/json-schema-markdown-a-tron/commit/e54bef5b482ea648f37a5a38a66c270566cb6b70))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#271](https://github.com/wmfs/json-schema-markdown-a-tron/issues/271)) ([78d4ae8](https://github.com/wmfs/json-schema-markdown-a-tron/commit/78d4ae86f42e82bff8604fa72993098027307fba))
+* **deps-dev:** update dependency mocha to v12 ([#267](https://github.com/wmfs/json-schema-markdown-a-tron/issues/267)) ([ccd2308](https://github.com/wmfs/json-schema-markdown-a-tron/commit/ccd230871c35a507ed162720893a7844fe57b1d8))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#268](https://github.com/wmfs/json-schema-markdown-a-tron/issues/268)) ([4b5b4a3](https://github.com/wmfs/json-schema-markdown-a-tron/commit/4b5b4a3bca93ac132ee802964448e47f7553e3e2))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#269](https://github.com/wmfs/json-schema-markdown-a-tron/issues/269)) ([7702162](https://github.com/wmfs/json-schema-markdown-a-tron/commit/7702162a6e9c651e9afaf4e5d3f8f9e460a84e4c))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#270](https://github.com/wmfs/json-schema-markdown-a-tron/issues/270)) ([2884752](https://github.com/wmfs/json-schema-markdown-a-tron/commit/28847520e26ed4d48c25edea2672ed09eceb1924))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#243](https://github.com/wmfs/json-schema-markdown-a-tron/issues/243)) ([a31b890](https://github.com/wmfs/json-schema-markdown-a-tron/commit/a31b8901a922eafef189d01c2bf460b63db3e3fd))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#238](https://github.com/wmfs/json-schema-markdown-a-tron/issues/238)) ([1037ed2](https://github.com/wmfs/json-schema-markdown-a-tron/commit/1037ed2083899cf329802e6bbcd271fd9a1c1f96))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([e71d7bb](https://github.com/wmfs/json-schema-markdown-a-tron/commit/e71d7bb1a7809a896fb454e9f57ad79fcdecdad8))
+* use shared renovate preset [sc-34117] ([#272](https://github.com/wmfs/json-schema-markdown-a-tron/issues/272)) ([b3936e8](https://github.com/wmfs/json-schema-markdown-a-tron/commit/b3936e8aaeb84d347cf3c41052caf3bbdac3bdc9))
+
 ## [1.11.1](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.11.0...v1.11.1) (2026-08-13)
 
 ## [1.11.0](https://github.com/wmfs/json-schema-markdown-a-tron/compare/v1.10.0...v1.11.0) (2025-10-21)
